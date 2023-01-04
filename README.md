@@ -15,6 +15,10 @@ Before you begin, ensure you have met the following requirements:
 
 To use <TripAdvisor Review Crawling>, follow these steps:
 
+1. Find attraction points' review url in TripAdvisor
+2. paste on the TripAdvisor crawling.py 
+3. run the code below on the terminal or powershell/cmd
+
 ```
 $ python TripAdvisor crawling.py --num 2000
 ```
