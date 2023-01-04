@@ -36,7 +36,7 @@ This code will collect
 you can add or remove the above components.
 
 
-## Contributing to <project_name>
+## Contributing to TripAdvisor_Crawling
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
 To contribute to <project_name>, follow these steps:
 
